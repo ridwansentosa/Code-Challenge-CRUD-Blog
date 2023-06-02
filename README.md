@@ -46,8 +46,10 @@ Request :
 - Header :
     - Accept: application/json
 - Query Param :
-    - size : number,
-    - page : number
+    - pages : number,
+    - limit : number,
+    - sortBy : string,
+    - direction : asc/desc,
 
 Response :
 
