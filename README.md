@@ -88,6 +88,7 @@ Request :
 Response :
 
 ```json 
+{
 "timeStamp": "date",
     "statusCode": "number",
     "message": "string",
