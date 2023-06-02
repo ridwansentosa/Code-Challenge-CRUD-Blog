@@ -1,5 +1,12 @@
 # API Spec
 
+## Authentication
+
+All API must use this authentication
+
+username : system
+password : Test123!!
+
 ## Create Post
 
 Request :
