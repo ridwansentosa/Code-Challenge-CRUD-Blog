@@ -27,7 +27,7 @@ Response :
     "message": "string",
     "data": {
         "post": {
-            "id": "string",
+            "id": "uuid",
             "title": "string",
             "body": "string",
             "author": "string",
@@ -62,7 +62,7 @@ Response :
         "Posts": {
             "result": [
                 {
-                    "id": "string",
+                    "id": "uuid",
                     "title": "string",
                     "body": "string",
                     "author": "string",
@@ -89,14 +89,13 @@ Response :
 
 ```json 
 {
-"timeStamp": "date",
+    "timeStamp": "date",
     "statusCode": "number",
     "message": "string",
     "data": {
         "post": {
-            "id": "string",
+            "id": "uuid",
             "title": "string",
-            "body": "string",
             "author": "string",
             "createdAt": "date",
             "updatedAt": "date"
