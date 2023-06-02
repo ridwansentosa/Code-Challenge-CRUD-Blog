@@ -14,7 +14,7 @@ Request :
 {
     "title" : "string",
     "body" : "string",
-    "author" : "long",
+    "author" : "string",
 }
 ```
 
