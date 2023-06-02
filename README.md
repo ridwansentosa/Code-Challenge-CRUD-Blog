@@ -75,7 +75,7 @@ Response :
         }
     }
 }
-
+```
 
 ## Get Post By Id
 
