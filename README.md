@@ -1,11 +1,13 @@
 # API Spec
 
-## Authentication
+## Authorization
 
-All API must use this authentication
+All API must use this authorization
 
-username : system
-password : Test123!!
+### Basic Auth
+
+#### username : system
+#### password : Test123!!
 
 ## Create Post
 
